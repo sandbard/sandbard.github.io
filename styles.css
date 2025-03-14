@@ -38,7 +38,6 @@ section {
     top: 220px;
     width: 80%;
     left: 10%;
-    /* overflow: hidden; */
     height: fit-content;
     min-width: 600px;
 }
@@ -93,7 +92,7 @@ li a:hover {
 }
 
 a:link {
-    color: white;
+    color: rgb(22, 66, 28);
 }
 
 a:visited {
