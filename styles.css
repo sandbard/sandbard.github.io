@@ -97,14 +97,13 @@ a:link {
 }
 
 a:visited {
-    color: #477061;
+    color: #c6dbd4;
 }
 
-
 ul li a.active {
-    color: rgb(31, 77, 37);
+    color: rgb(22, 66, 28);
     border-left: 5px solid grey;
-    background-color: #04AA6D;
+    background-color: #2dd899;
 }
 
 .slider {
