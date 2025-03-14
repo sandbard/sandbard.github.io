@@ -96,7 +96,7 @@ a:link {
 }
 
 a:visited {
-    color: #c6dbd4;
+    color: rgb(36, 83, 68);
 }
 
 ul li a.active {
